@@ -13,6 +13,13 @@
 ## preview
 ![FinBOT_live](finbotlive_ui.png)
 
+## voice demo preview
+![voice demo preview](voicedemo.png)
+## camera demo preview
+![camera demo preview](camerademo.png)
+## screen demo preview
+![screen demo preview](screendemo.png)
+
 ## Directory Structure
 ```
 bhaswanth67-finbot_live/
